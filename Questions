@@ -1,0 +1,20 @@
+List full details of all hotels.
+List full details of all hotels in London.
+List the names and addresses of all guests in London, alphabetically ordered by name.
+List all double or family rooms with a price below £40.00 per night, in ascending order of price.
+List the bookings for which no date_to has been specified.
+How many hotels are there?
+What is the average price of a room?
+What is the total revenue per night from all double rooms?
+How many different guests have made bookings for August?
+List the price and type of all rooms at the Grosvenor Hotel.
+List all guests currently staying at the Grosvenor Hotel.
+List the details of all rooms at the Grosvenor Hotel, including the name of the guest staying in the room, if the room is occupied.
+What is the total income from bookings for the Grosvenor Hotel today?
+List the rooms that are currently occupied at the Grosvenor Hotel.
+What is the total income from unoccupied rooms at the Grosvenor Hotel?
+List the number of rooms in each hotel.
+List the number of rooms in each hotel in London.
+What is the average number of bookings for each hotel in August?
+What is the most commonly booked room type for each hotel in London?
+What is the lost income from unoccupied rooms at each hotel today?
