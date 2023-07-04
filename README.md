@@ -1,6 +1,7 @@
 # Hotel-Data-Analysis-SQL-Queries
-<div style="background-color: #F0F0F0;">
+
 This is the tables that I have created.
+
 NOTE: You can change the values and create your own table.
 
 ```sql
@@ -266,5 +267,3 @@ GROUP BY r.hotel_no;
 ![Screenshot (687)](https://github.com/khushimdave/Hotel-Data-Analysis-SQL-Queries/assets/94516006/8b17521f-0c3b-4af4-8a95-ae575d4d3126)
 
 Fig 24: Lost income from unoccupied rooms at each hotel today (current day)
-
-</div>
